@@ -1,0 +1,14 @@
+resources/
+dataBak/
+logs/
+staticFiles/
+node_modules/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/
+*.*.map
+*compiled.js

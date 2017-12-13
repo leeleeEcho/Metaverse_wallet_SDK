@@ -1,0 +1,30 @@
+{
+  "name": "mvs-wallet-node-sdk",
+  "version": "0.0.1",
+  "description": "SDK for Metaverse wallet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leelee.echo",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "co": "^4.6.0",
+    "crypto": "0.0.3",
+    "debug": "^2.2.0",
+    "fs-promise": "^0.5.0",
+    "fs-extra": "^4.0.3",
+    "ioredis": "^2.2.0",
+    "joi": "^8.0.4",
+    "js-base64": "^2.1.9",
+    "js-md5": "^0.4.1",
+    "memory-fs": "^0.3.0",
+    "node-base64-image": "^1.0.4",
+    "uuid": "^3.1.0",
+    "promise": "^7.1.1",
+    "redis": "^2.6.2",
+    "request": "^2.72.0",
+    "syncrequest": "^1.4.2"
+  }
+}
